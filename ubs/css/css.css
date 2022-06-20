@@ -1,0 +1,41 @@
+
+
+#rel{ 
+	color:black;
+	font-weight: bold;
+	text-align:center;
+	color:red;
+
+}
+
+#centralizador {  
+		margin-left: auto;
+		margin-right: auto; 	
+		width: 750px;
+        height: 200px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center ;
+		}
+
+
+#quadrado{ 
+	
+	float:left;
+	font-weight: bold;
+	text-align:center;
+	width: 50%;
+    height: 200px;
+	
+
+}
+
+#quadrado2{ 
+	float:right;
+	font-weight: bold;
+	text-align:center;
+	width: 50%;
+    height: 200px;
+
+}
